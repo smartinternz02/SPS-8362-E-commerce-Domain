@@ -23,6 +23,7 @@ Project Demonstration Video :<br>
  - Wordpress
  - Dokan Plugin (For Multi-Vendor Setup)
  - Elementor (For Template Design)
+ - Astra (Used Theme)
  
  **_Overview of Website_**
  <br>
