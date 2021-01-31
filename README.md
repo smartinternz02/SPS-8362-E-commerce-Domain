@@ -18,4 +18,7 @@ Youtube Link : https://youtu.be/cTCcQDhjmpU
  
  **_Technologies Used_**
  <br>
+ - Wordpress
+ - Dokan Plugin (For Multi-Vendor Setup)
+ - Elementor (For Template Design)
  
