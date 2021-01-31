@@ -12,9 +12,9 @@ Youtube Link : https://youtu.be/cTCcQDhjmpU
 **_Overview of Web Build-A-Thon_**
 <br>
  [GoDaddy 36Hrs. Web Build-A-Thon - SmartInternz](https://smartinternz.com/godaddy-web-build-a-thon)
- -Free Wordpress Hosting on GoDaddy
- -Free Web Courses on GoDaddy Academy
- -3 days training
+ - Free Wordpress Hosting on GoDaddy
+ - Free Web Courses on GoDaddy Academy
+ - 3 days training
  
  **_Technologies Used_**
  <br>
