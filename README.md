@@ -1,8 +1,7 @@
 # SPS-8362-E-commerce-Domain
 <b>_E-commerce Domain_</b>
 <br>
-[![Website](https://img.shields.io/website?label=dropmag.in&style=for-the-badge&url=http%3A%2F%2FYour Baazaar)](https://f7l.2da.myftpupload.com/)
-<br>
+
 Godaddy website link - eCommerce Domain - [Your Baazaar](https://f7l.2da.myftpupload.com/ "Your Baazaar") (Multi-Vendor Marketplace) : <br>
 [Visit Website](https://f7l.2da.myftpupload.com/)
 
