@@ -1,5 +1,5 @@
 # SPS-8362-E-commerce-Domain
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmith098&label=Page%20views&color=0e75b6&style=flat" alt="susmith098" /> </p> 
+https://img.shields.io/website?up_message=Your%20Baazaar&url=https%3A%2F%2Ff7l.2da.myftpupload.com%2F
 <b>_E-commerce Domain_</b>
 <br>
 
