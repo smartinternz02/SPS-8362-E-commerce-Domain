@@ -1,7 +1,7 @@
 # SPS-8362-E-commerce-Domain
 <b>_E-commerce Domain_</b>
 
-Godaddy website link - eCommerce Domain - Your Baazaar (Multi-Vendor Marketplace) : <br>
+Godaddy website link - eCommerce Domain - [Your Baazaar](https://f7l.2da.myftpupload.com/) (Multi-Vendor Marketplace) : <br>
 [Visit Website](https://f7l.2da.myftpupload.com/)
 
 Project Demonstration Video :<br>
