@@ -24,3 +24,6 @@ Project Demonstration Video :<br>
  - Dokan Plugin (For Multi-Vendor Setup)
  - Elementor (For Template Design)
  
+ **_Overview of Website_**
+ <br>
+ - Your Baazaar is made for shop owners who do not have their own website. So in this website we provide anyone can open their online marketplace and start selling 🛒🛍. Also this website will be helpful you to compare which shop gives better offers and quality products.
